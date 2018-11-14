@@ -1,10 +1,10 @@
 # elm-exercises
 
-## Install Elm
+## Install elm
 Instructions: https://guide.elm-lang.org/install.html
 
 ## Run examples
-Paste followed commands into your terminal
+Paste followed commands into your terminal:
 ```
 git clone https://github.com/esporysz/elm-exercises.git
 cd elm-exercises
